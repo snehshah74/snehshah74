@@ -6,9 +6,7 @@ I build and ship products 🚀
 
 From co-founding startups and scaling them to 10X growth, to shipping impact at enterprise companies.
 
----
-
-## 🚀 About Me
+## 😎 About Me
 
 - **Product Leader** with 3+ years of experience in product management, product strategy, and GTM for B2B SaaS & AI-driven platforms.
 
@@ -21,8 +19,6 @@ From co-founding startups and scaling them to 10X growth, to shipping impact at 
 
 Find out more at [my portfolio](https://snehshah.vercel.app)
 
----
-
 ## 💼 Companies I worked at
 
 | Role                                    | Company                   | Dates                 |
@@ -33,8 +29,6 @@ Find out more at [my portfolio](https://snehshah.vercel.app)
 | Lead Product Manager                     | Webvision Solution Ltd.   | Jan 2022–Jul 2023     |
 | Co-Founder & Lead Product Manager        | GrowthCruise              | Sept 2020–Jan 2022    |
 
----
-
 ## 💡 Want a sneak peek or to chat about my experience?  
 
 - 📧 [Email me](mailto:snehshah74@gmail.com)
@@ -42,8 +36,6 @@ Find out more at [my portfolio](https://snehshah.vercel.app)
 - 📆 [Schedule a call](https://calendly.com/snehshah/60min?month=2025-09)
 - 🌐 [Personal Website](https://snehshah.vercel.app)
 - 🚀 [GitHub](https://github.com/snehshah74)
-
----
 
 ## 🚨 Fun Fact: Product Hunt Maniac
 
@@ -62,7 +54,7 @@ Building? Hit me up before your launch—I’ve probably hunted your competitors
 
 ## 🛠️ My Full-Stack Product Toolkit
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python)
 ![TypeScript](https://img.shields.io/badge/typescript-3178c6?logo=typescript)
@@ -79,7 +71,7 @@ Building? Hit me up before your launch—I’ve probably hunted your competitors
 
 ---
 
-## 🗂️ Product & Productivity Tools
+### 🗂️ Product & Productivity Tools
 ![N8N](https://img.shields.io/badge/n8n-ef9335?logo=n8n)
 ![Tableau](https://img.shields.io/badge/tableau-00334F?logo=tableau)
 ![PowerBI](https://img.shields.io/badge/powerbi-f2c811?logo=powerbi)
@@ -98,7 +90,7 @@ Building? Hit me up before your launch—I’ve probably hunted your competitors
 ![Loom](https://img.shields.io/badge/loom-5531A4?logo=loom)
 
 ---
-🤖 AI Technologies
+### 🤖 AI Technologies
 
 ![OpenAI GPT](https://img.shields.io/badge/GPT-10a37f?logo=openai&logoColor=fff)
 ![Claude](https://img.shields.io/badge/claude-6b21e0?logo=anthropic)
@@ -112,12 +104,13 @@ Building? Hit me up before your launch—I’ve probably hunted your competitors
 ![ReAct](https://img.shields.io/badge/ReAct-17e12d?logo=ai)
 ![Agentic AI](https://img.shields.io/badge/AgenticAI-32138e?logo=rocket)
 
-## 🚀 Other Buzzwords
+---
+### 🚀 Other Buzzwords
 Agile · Scrum · Kanban · Product lifecycle · MVP · Feature Prioritization · Roadmapping · Data-driven PM · User Research · AB Testing · OKRs · SaaS · GTM Strategy · Rapid Prototyping
 
 ---
 
-> “I'm always open to discussing AI product opportunities, technical challenges, or sharing insights about building intelligent solutions. Let's build something great together!”
+> “I'm always open to discussing AI product opportunities, technical challenges, or sharing insights about building intelligent solutions. Let's build something great together!”🚀 
 
 ---
 
