@@ -10,7 +10,7 @@ From co-founding startups and scaling them to 10X growth, to shipping impact at 
 
 ## 🚀 About Me
 
-- **Product Leader** with experience in product management, product strategy, and GTM for B2B SaaS & AI-driven platforms.
+- **Product Leader** with 3+ years of experience in product management, product strategy, and GTM for B2B SaaS & AI-driven platforms.
 
 - My superpowers:  
   - Defining vision, roadmapping, marshalling teams to launch AI products  
@@ -19,7 +19,7 @@ From co-founding startups and scaling them to 10X growth, to shipping impact at 
   - Turning big ideas into clear strategies and feature roadmaps
   - Prioritizing what drives impact and drawing clear lines from vision → action
 
-Find out more at [my portfolio](https://snehshah.vercel.app) or view my [resume](https://snehshah.vercel.app/Sneh-Shah-CV.pdf).
+Find out more at [my portfolio](https://snehshah.vercel.app)
 
 ---
 
@@ -45,19 +45,18 @@ Find out more at [my portfolio](https://snehshah.vercel.app) or view my [resume]
 
 ---
 
-## 🚨 Product Hunt Maniac
+## 🚨 Fun Fact: Product Hunt Maniac
 
 I don’t just scroll Product Hunt—I treat it like a second monitor for what’s next.
 - If it launches, I see it.
 - If it’s AI, I try it before breakfast.
 - If it’s wild, weird, or worth a comment, you’ll find my hot take there.
 
-I *systematically* browse, battle-test, and hype up dozens of new tools every single day. My comment game? 🥷 Top 1%.
+If a product is trending, odds are I’ve tried it, reviewed it, or already have notes for my next experiment!
 
 Building? Hit me up before your launch—I’ve probably hunted your competitors already.  
-Reading this? There’s a good chance you saw me on today’s leaderboard. 🏆
 
-[Find my Product Hunt profile here!](https://www.producthunt.com/@snehshah)
+[Find my Product Hunt profile here!](https://www.producthunt.com/@sneh_shah)
 
 ---
 
@@ -99,7 +98,7 @@ Reading this? There’s a good chance you saw me on today’s leaderboard. 🏆
 ![Loom](https://img.shields.io/badge/loom-5531A4?logo=loom)
 
 ---
-🤖 AI & Agentic Technologies
+🤖 AI Technologies
 
 ![OpenAI GPT](https://img.shields.io/badge/GPT-10a37f?logo=openai&logoColor=fff)
 ![Claude](https://img.shields.io/badge/claude-6b21e0?logo=anthropic)
